@@ -2,7 +2,7 @@
 
 Reproducibility archive for *Testing Group Differences in Network Models using
 Bayesian Model Selection: A Tutorial* by Jonas Haslbeck, Mona Klau, Tessa
-Blanken, and Maarten Marsman.
+Blanken, and Maarten Marsman. (https://osf.io/preprints/psyarxiv/rx745_v1)
 
 The application compares the conditional associations among six problematic
 pornography use (PPU) symptoms in women and men using `bgms::bgmCompare()`.
